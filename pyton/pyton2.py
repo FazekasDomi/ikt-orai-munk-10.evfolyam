@@ -12,6 +12,10 @@ while szam >= 1:
     print(szam)
     szam = szam - 2
 '''
+#2
+#3
+#4
+#5
 #6
 '''
 import random
@@ -22,3 +26,4 @@ if gondolt_szam==tipp:
 else:
     print("nop")
 '''
+#7
