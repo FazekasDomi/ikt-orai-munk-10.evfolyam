@@ -1,0 +1,27 @@
+
+.body{
+    background-color: black;
+}
+
+div{
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    background-color: rgb(165, 0, 96);
+}
+
+p{
+    color: white;
+}
+
+h1{
+    text-align: center;
+    color: beige;
+}
+h2{
+    text-align: center;
+    color: beige;
+}
